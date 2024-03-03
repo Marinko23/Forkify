@@ -1,5 +1,5 @@
 
-#Features
+# Features
 - Search functionallity: API search request
 - Results with pagination
 - Display recipes
