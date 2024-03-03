@@ -19,4 +19,4 @@
   - Parcel
 
 # API
-  - Jonas Schmedtmann's Forkify API: [https://forkify-api.herokuapp.com/v2] (https://forkify-api.herokuapp.com/v2)
+  - Jonas Schmedtmann's Forkify API: https://forkify-api.herokuapp.com/v2
